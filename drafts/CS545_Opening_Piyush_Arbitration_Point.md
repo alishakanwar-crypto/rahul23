@@ -1,0 +1,14 @@
+## TABLE 4 — PIYUSH GUPTA MADE A PARTY IN THE ARBITRATION: NON-SIGNATORIES ARE "IN" WHEN IT SUITS THE DEFENDANTS
+
+Source: Section 9 Petition filed by Mr. Pawan Gupta — O.M.P.(I)(COMM.) 68/2026, Delhi High Court (Pawan Gupta v. Kamal Gupta & Ors.), para 30:
+
+> "That it is further pertinent to state that the KG Group has also approached the Ld. Arbitral Tribunal itself by filing an interlocutory application seeking **impleadment of Petitioners' Mr. Piyush Gupta and P.P. Jewellers Retail Pvt. Ltd.** This step, taken simultaneously with proceedings under Article 227, clearly demonstrates a pattern of forum proliferation and procedural pressure tactics..."
+
+| # | Fact | Significance for the rejoinder |
+|---|---|---|
+| 1 | Mr. Piyush Gupta (son of Pawan Gupta) is a **NON-signatory** to the FSD 2015 and MOU 2019 — exactly like the Plaintiff. | The Defendants' entire objection to the Plaintiff's suit is that a non-signatory has no rights under/against the family settlement. |
+| 2 | Yet the KG Group (Defendant Nos. 1–2's own group) has applied to the Arbitral Tribunal to **implead Piyush Gupta and P.P. Jewellers Retail Pvt. Ltd.** into the very arbitration arising from those FSDs (per Pawan Gupta's sworn S.9 petition, para 30). | When it suits them, non-signatories and their companies ARE within the family arbitration; when the Plaintiff asserts his 23%, non-signatory status is used to shut him out. Classic approbate and reprobate. |
+| 3 | Earlier, PPJPL (Kamal Gupta's control) sued Piyush Gupta personally as Defendant No. 3 in CS(COMM) 1551/2021 (Tis Hazari) over the "P.P. Jewellers" marks, suppressing the family settlement — the Division Bench in FAO(COMM) 120/2021, order dated 30.07.2021, para 14, noted the marks "have been acknowledged in the family settlement as being available for the use of the family." | The same group litigates family-settlement subject matter against non-signatories in multiple fora (civil suit, Article 227 in CM(M)(IPD) 26/2025, impleadment before the Tribunal), while telling this Hon'ble Court that the Plaintiff's civil suit on the same family arrangement is barred. |
+| 4 | The Plaintiff (23% share, non-signatory) was EXCLUDED from that arbitration by the order dated 22.03.2024 — which is precisely why this civil suit is his only remedy, as sanctioned by the 13.08.2025 judgment ("free to work out their rights"). | The Defendants cannot simultaneously expand the arbitration to catch Pawan Gupta's non-signatory son and contract it to exclude the Plaintiff, and then attack the Plaintiff's civil suit as an abuse. |
+
+Counsel-verification note: verify the current status of the KG Group's impleadment application before the Ld. Arbitral Tribunal (allowed/pending/dismissed) and quote the application itself if available; the source here is Pawan Gupta's sworn pleading in O.M.P.(I)(COMM.) 68/2026 (para 30) and the Statement of Defence/Counter-Claim para 147 extracted therein.
